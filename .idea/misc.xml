@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/maryi/AndroidStudioProjects/AlaeddinGame/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/maryi/AndroidStudioProjects/AlaeddinGame/app/src/main/res/drawable/round.xml" value="0.1515" />
+        <entry key="..\:/Users/maryi/AndroidStudioProjects/AlaeddinGame/app/src/main/res/drawable/roundy.xml" value="0.184" />
+        <entry key="..\:/Users/maryi/AndroidStudioProjects/AlaeddinGame/app/src/main/res/layout/activity_main.xml" value="0.6666666666666666" />
       </map>
     </option>
   </component>
